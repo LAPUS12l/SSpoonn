@@ -1,0 +1,8 @@
+input "What is your age? : " -p age
+input "What is your name again? : " -p name
+int age = str(age)
+string agee = str(age)
+println["    Whole info"]
+println["name : "+name]
+println["age : "+agee]
+sleep[1000]

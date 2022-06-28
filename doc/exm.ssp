@@ -1,0 +1,13 @@
+println["Hello world"]
+
+input "what is your name? : " -p name
+
+string invalid_name = "Jesus"
+
+if name != invalid_name THEN
+ call["Demo2.ssp"]
+end
+
+if name == invalid_name THEN
+ println["Your name is invalid cant name your self 'Jesus'"]
+end

@@ -1,0 +1,17 @@
+if  |  statement
+
+call[]  |  Call a ssp file
+
+for | for loop
+
+input  |  console input
+
+println[]  |  print new line
+
+string  |  string var or val
+
+int  |  integer var or val
+
+process[]  |  os process
+
+end  |  end statement or loop
